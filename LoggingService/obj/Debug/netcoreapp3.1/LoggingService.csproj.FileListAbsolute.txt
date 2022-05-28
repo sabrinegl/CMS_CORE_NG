@@ -1,0 +1,10 @@
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\LoggingService\bin\Debug\netcoreapp3.1\LoggingService.deps.json
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\LoggingService\bin\Debug\netcoreapp3.1\LoggingService.dll
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\LoggingService\bin\Debug\netcoreapp3.1\LoggingService.pdb
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\LoggingService\obj\Debug\netcoreapp3.1\LoggingService.csproj.AssemblyReference.cache
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\LoggingService\obj\Debug\netcoreapp3.1\LoggingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\LoggingService\obj\Debug\netcoreapp3.1\LoggingService.AssemblyInfoInputs.cache
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\LoggingService\obj\Debug\netcoreapp3.1\LoggingService.AssemblyInfo.cs
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\LoggingService\obj\Debug\netcoreapp3.1\LoggingService.csproj.CoreCompileInputs.cache
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\LoggingService\obj\Debug\netcoreapp3.1\LoggingService.dll
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\LoggingService\obj\Debug\netcoreapp3.1\LoggingService.pdb

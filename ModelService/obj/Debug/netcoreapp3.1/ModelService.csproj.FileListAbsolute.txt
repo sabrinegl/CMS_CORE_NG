@@ -1,0 +1,13 @@
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\ModelService\bin\Debug\netcoreapp3.1\ModelService.deps.json
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\ModelService\bin\Debug\netcoreapp3.1\ModelService.runtimeconfig.json
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\ModelService\bin\Debug\netcoreapp3.1\ModelService.runtimeconfig.dev.json
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\ModelService\bin\Debug\netcoreapp3.1\ModelService.dll
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\ModelService\bin\Debug\netcoreapp3.1\ModelService.pdb
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\ModelService\obj\Debug\netcoreapp3.1\ModelService.csproj.AssemblyReference.cache
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\ModelService\obj\Debug\netcoreapp3.1\ModelService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\ModelService\obj\Debug\netcoreapp3.1\ModelService.AssemblyInfoInputs.cache
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\ModelService\obj\Debug\netcoreapp3.1\ModelService.AssemblyInfo.cs
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\ModelService\obj\Debug\netcoreapp3.1\ModelService.csproj.CoreCompileInputs.cache
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\ModelService\obj\Debug\netcoreapp3.1\ModelService.dll
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\ModelService\obj\Debug\netcoreapp3.1\ModelService.pdb
+C:\Users\sabrine\Desktop\CMS_CORE_NG\CMS_CORE_NG\ModelService\obj\Debug\netcoreapp3.1\ModelService.genruntimeconfig.cache
